@@ -1,0 +1,42 @@
+.form {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 80px;
+}
+
+.formLabel {
+    margin-right: 8px;
+}
+
+.formButton {
+    padding: 4px;
+}
+
+.resultadoContainer {
+    padding-top: 8px;
+    border: 2px solid rgba(0, 0, 0, 0.3);
+}
+
+.resultadoImc {
+    padding-left: 4px;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.3) ;
+    padding-bottom: 4px;
+}
+
+.resultadoClassificacao {
+    border-top: 2px solid rgba(0, 0, 0, 0.3);
+    padding-top: 6px;
+    padding-left: 4px;
+    display: flex;
+    align-items: center;
+}
+
+.resultados {
+    margin-left: 4px;
+}
+
+.legenda {
+    padding-top: 4px;
+    padding-left: 4px;
+}   

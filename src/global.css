@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: var(--corBgPrincipal) ;
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    width: 100%;
+}
+
+:root {
+    --corBgHeader: #A3CB38 ;
+    --corBgPrincipal: rgba(196, 229, 56, .4);
+}
